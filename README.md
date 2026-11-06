@@ -6,7 +6,7 @@ Experimental desktop beta installers for Inform. This repository contains distri
 
 ## Current candidate
 
-Beta 0.2.2026110503. Choose the matching file from the published release assets when available, and compare its SHA-256 with SHA256SUMS.txt.
+[Download beta 0.2.2026110503](https://github.com/ThatConorGuy/Inform-downloads/releases/tag/beta-0.2.2026110503). Choose the matching ZIP from the release assets and compare its SHA-256 with SHA256SUMS.txt.
 
 - Mac: Apple silicon, macOS 14 or later. Locally tested. Ad-hoc signed, not notarized; macOS Gatekeeper does not trust this package. Keep your security protections enabled. This is not a broadly trusted public Mac release.
 - Windows: x64 cross-build targeting Windows 11. The executable has not been run on Windows. Treat it as an unverified experimental build; it is not a verified Windows release.
